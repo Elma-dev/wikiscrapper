@@ -8,7 +8,7 @@
 
 ## 📝 Description
 
-This project is a Wikipedia scraper specifically designed to collect articles from the Moroccan Arabic Wikipedia (ary.wikipedia.org). It processes the articles and creates a dataset that can be pushed to the Hugging Face Hub.
+This project is a Wikipedia scraper specifically designed to collect articles from Wikipedia. It processes the articles and creates a dataset that can be pushed to the Hugging Face Hub.
 
 ## 🚀 Features
 
