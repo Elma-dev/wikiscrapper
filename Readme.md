@@ -1,7 +1,7 @@
 <div align="center">
   <img src=img/logo.png alt="Wikipedia Scraper Logo" />
 
-  # Wikipedia Scraper
+  # Wikipedia Scraper ...
   
   A tool to scrape and process Wikipedia articles for dataset creation
 </div>
