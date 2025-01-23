@@ -1,0 +1,4 @@
+pywikibot 
+datasets 
+mwparserfromhell
+python-dotenv
